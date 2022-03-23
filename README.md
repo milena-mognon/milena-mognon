@@ -1,6 +1,8 @@
 <h1 align="center">Olá, eu sou a Milena! 👋</h1>
 <h3 align="center">Sou Dev Full Stack, mas apaixonada por backend. Atualmente trabalho com JavaScript/React no frontend e TypeScript/NodeJS no backend. Estou sempre buscando novos conhecimentos, atualmente meu foco está sendo em arquitetura de software e microserviços.</h3>
 
+<h6>Essa conta é utilizada apenas para projetos pessoais. Minha conta profissional, que uutilizo diariamente no trabalho, pode ser vista neste [link](https://github.com/milena-mognon-biopark)</h6>
+
 ## Linguagens e Ferramentas
 
 <p align="left"> 
