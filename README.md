@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Milena! 👋</h1>
-<h3 align="center">Sou Analista de Sistemas / Dev Full Stack. Atualmente trabalho com JavaScript/React no frontend e TypeScript/NodeJS no backend. Estou sempre buscando novos conhecimentos, especialmente sobre backend, minha área de atuação preferida. </h3>
+<h3 align="center">Estou sempre buscando evolução e novos conhecimentos. Como desenvolvedora, tenho experiência com frontend e backend, principalmente em Typescript/Javascrip com React e NodeJS. Apesar de atuar como full stack, gosto muito do desenvolvimento backend e é nessa área que busco me especializar.</h3>
 
 ## Linguagens e Ferramentas
 
