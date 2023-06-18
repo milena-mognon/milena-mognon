@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Milena! 👋</h1>
-<h3 align="center">Estou sempre buscando evolução e novos conhecimentos. Como desenvolvedora, tenho experiência com frontend e backend, principalmente em Typescript/Javascrip com React e NodeJS. Apesar de atuar como full stack, gosto muito do desenvolvimento backend e é nessa área que busco me especializar.</h3>
+<h3 align="center">Estou sempre buscando evolução e novos conhecimentos. Como desenvolvedora, tenho experiência com frontend e backend, principalmente em Typescript/Javascript com React e NodeJS. Atuo como full stack, gosto muito do desenvolvimento backend e é nessa área que busco me especializar.</h3>
 
 ## Linguagens e Ferramentas
 
