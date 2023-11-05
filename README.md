@@ -1,6 +1,6 @@
 <img align="center" width=100% src="header.png" />
 
-<p align="center"><br><br> Trabalhar com desenvolvimento é uma experiência incrível. A resolução de desafios e a constante busca por projetos inovadores são fontes de motivação para mim. Este entusiasmo me impulsiona a aprimorar minhas habilidades e a contribuir de forma significativa para o mundo da tecnologia. </p>
+<h4 align="center"><br>Trabalhar com desenvolvimento é uma experiência incrível. A resolução de desafios e a constante busca por projetos inovadores são fontes de motivação para mim. Este entusiasmo me impulsiona a aprimorar minhas habilidades e a contribuir de forma significativa para o mundo da tecnologia. </h4>
 
 ## My Skills
 
